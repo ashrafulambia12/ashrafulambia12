@@ -9,19 +9,7 @@ I am Ashraful Ambia, I am a Jr.Web Developer || MERN Stack Developer || Font-End
 Your faithful Ashraful
 ### I am following this equipment in the front end development
 
-HTML5
-CSS3
-Boostrap
-Material UI
-Tailwind
-JavaScript
-JSX
-React
-MongoDB
-NodeJS
-Firebase
-Firebase jwt token
-Heroku
+HTML5 , CSS3 , Boostrap , Material UI , Tailwind , JavaScript , JSX , React ,  MongoDB , NodeJS , Firebase , Firebase jwt token , Heroku
 
 ### Why Me?
 
